@@ -20,7 +20,7 @@
     "webpack-cli": "^3.3.12"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/ek-quotes-react-test"
